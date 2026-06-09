@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500">
+<defs>
+  <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0" stop-color="#f1f7f5"/>
+    <stop offset="1" stop-color="#fffdf9"/>
+  </linearGradient>
+  <filter id="s" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="28" stdDeviation="28" flood-color="#2b1018" flood-opacity=".22"/>
+  </filter>
+</defs>
+<rect width="1200" height="1500" rx="80" fill="url(#g)"/>
+<circle cx="1020" cy="180" r="230" fill="#fff" opacity=".18"/>
+<circle cx="120" cy="1300" r="260" fill="#fff" opacity=".16"/>
+<rect x="170" y="180" width="860" height="1050" rx="60" fill="#fff" opacity=".82" filter="url(#s)"/>
+<path d="M280 430 C430 280, 760 280, 910 430 L840 1060 C660 1130, 480 1130, 360 1060 Z" fill="#4f7c75" opacity=".88"/>
+<path d="M390 520 C520 590, 700 590, 820 520" fill="none" stroke="#fff" stroke-width="18" opacity=".55"/>
+<text x="600" y="1330" text-anchor="middle" font-size="86" fill="#2b1018" font-family="Georgia, serif" font-weight="700">Bed Sheets</text>
+<text x="600" y="1400" text-anchor="middle" font-size="34" fill="#6f5f5d" font-family="Arial" font-weight="700" letter-spacing="6">HOME TEXTILE</text>
+<text x="600" y="760" text-anchor="middle" font-size="220" fill="#fff" font-family="Arial" font-weight="800" opacity=".86">B</text>
+</svg>

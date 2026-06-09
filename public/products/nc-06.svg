@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d5134a"/><stop offset="1" stop-color="#2b0209"/></linearGradient>
+<radialGradient id="r" cx="35%" cy="15%" r="70%"><stop stop-color="#fff" stop-opacity=".9"/><stop offset=".55" stop-color="#f8e9dc"/><stop offset="1" stop-color="#fff"/></radialGradient>
+<filter id="s" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="30" stdDeviation="24" flood-color="#4b0617" flood-opacity=".25"/></filter>
+</defs>
+<rect width="900" height="1200" fill="url(#r)"/>
+<circle cx="755" cy="130" r="130" fill="#2b0209" opacity=".10"/>
+<circle cx="120" cy="1030" r="170" fill="#c9a24a" opacity=".13"/>
+<path d="M202 190 C310 125, 580 125, 698 190" fill="none" stroke="#2b0209" stroke-width="13" stroke-linecap="round" opacity=".18"/>
+<g filter="url(#s)">
+<path d="M448 210 C410 280 332 348 288 512 C245 670 208 860 122 1008 C280 1096 616 1094 778 1006 C684 850 656 670 612 512 C566 347 492 280 448 210Z" fill="url(#g)"/>
+<path d="M448 210 C421 290 420 418 448 544 C489 730 498 888 405 1043" fill="none" stroke="#fff" stroke-width="14" stroke-opacity=".32"/>
+<path d="M328 392 C420 442 512 442 602 392" fill="none" stroke="#fff" stroke-width="10" stroke-opacity=".22"/>
+<path d="M313 600 C420 664 515 664 625 600" fill="none" stroke="#fff" stroke-width="8" stroke-opacity=".16"/>
+</g>
+<text x="450" y="92" text-anchor="middle" font-family="Georgia,serif" font-size="46" fill="#3c0615" font-weight="700">Noor Collection</text>
+<text x="450" y="1120" text-anchor="middle" font-family="Arial,sans-serif" font-size="40" fill="#3c0615" font-weight="700">NC-06</text>
+<text x="450" y="1170" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" fill="#9b0026" letter-spacing="5">UNSTITCHED LAWN</text>
+</svg>
